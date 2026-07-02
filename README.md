@@ -8,17 +8,17 @@ Designed with a cozy and minimal interface, the application focuses on simplicit
 
 ## Features
 
-- 📌 Track internship and job applications
-- 🏢 Manage company and position information
-- 💼 Support different work modes (On-site, Hybrid, Remote)
-- 📍 Record job locations
-- 📅 Track application dates
-- 🔄 Update application status
-- 💰 Store salary or internship allowance
-- 🔗 Save original job posting links
-- 📝 Keep interview notes and reminders
-- 🔍 Search, filter, and sort applications
-- 📊 Dashboard with application statistics
+- Track internship and job applications
+- Manage company and position information
+- Support different work modes (On-site, Hybrid, Remote)
+- Record job locations
+- Track application dates
+- Update application status
+- Store salary or internship allowance
+- Save original job posting links
+- Keep interview notes and reminders
+- Search, filter, and sort applications
+- Dashboard with application statistics
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
