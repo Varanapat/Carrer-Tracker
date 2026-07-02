@@ -1,3 +1,26 @@
+# Career Tracker
+
+A modern and minimal web application for tracking internship and job applications throughout the recruitment journey.
+
+Career Tracker helps users organize every application in one place, making it easy to monitor application progress, manage interview schedules, store job details, and keep personal notes during the hiring process.
+
+Designed with a cozy and minimal interface, the application focuses on simplicity, productivity, and a pleasant user experience.
+
+## Features
+
+- 📌 Track internship and job applications
+- 🏢 Manage company and position information
+- 💼 Support different work modes (On-site, Hybrid, Remote)
+- 📍 Record job locations
+- 📅 Track application dates
+- 🔄 Update application status
+- 💰 Store salary or internship allowance
+- 🔗 Save original job posting links
+- 📝 Keep interview notes and reminders
+- 🔍 Search, filter, and sort applications
+- 📊 Dashboard with application statistics
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
